@@ -1,14 +1,98 @@
-# 💫 About Me:
-✦ 𝑯𝒊, 𝑰'𝒎 𝑺𝒂𝒚𝒂𝒏 𝑮𝒉𝒐𝒔𝒉! 👋<br><br>🎓 𝑩.𝑻𝒆𝒄𝒉 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 | 𝑪𝑺𝑬 (𝑨𝑰)<br><br>💻 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝑪𝒐𝒅𝒊𝒏𝒈, 𝑨𝑰 & 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.<br><br>🚀 𝑾𝒉𝒂𝒕 𝑰 𝑫𝒐<br>▸ 𝑩𝒖𝒊𝒍𝒅 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒂𝒏𝒅 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒗𝒆 𝒘𝒆𝒃 𝒂𝒑𝒑𝒔<br>▸ 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝑨𝑰, 𝑴𝑳 & 𝒊𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒕 𝒔𝒚𝒔𝒕𝒆𝒎𝒔<br>▸ 𝑻𝒖𝒓𝒏 𝒊𝒅𝒆𝒂𝒔 𝒊𝒏𝒕𝒐 𝒓𝒆𝒂𝒍-𝒘𝒐𝒓𝒍𝒅 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔<br><br>⚡ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌<br>✧ React.js • Node.js • Python • Java<br>✧ Tailwind CSS • Three.js • GSAP<br>✧ Git • GitHub • AI/ML<br><br>🎯 𝑴𝒚 𝑴𝒊𝒔𝒔𝒊𝒐𝒏<br>𝑳𝒆𝒂𝒓𝒏. 𝑩𝒖𝒊𝒍𝒅. 𝑰𝒏𝒏𝒐𝒗𝒂𝒕𝒆. 𝑹𝒆𝒑𝒆𝒂𝒕. 🔥<br><br>🤝 𝑶𝒑𝒆𝒏 𝒕𝒐 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒐𝒏𝒔 & 𝒄𝒐𝒐𝒍 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔!<br><br>🌐 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐: https://sayanghosh67.github.io/portfolio/<br><br>✦ 𝑪𝒐𝒅𝒆 𝒘𝒊𝒕𝒉 𝒑𝒖𝒓𝒑𝒐𝒔𝒆. 𝑩𝒖𝒊𝒍𝒅 𝒘𝒊𝒕𝒉 𝒑𝒂𝒔𝒔𝒊𝒐𝒏. ✦
+<div align="center">
 
+<img src="assets/sayan-hero.svg" alt="Sayan Ghosh — AI/ML Engineer, Full-Stack Developer, Creative Technologist" width="100%">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sayanghosh097) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayan_ghosh97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayan-ghosh97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iemsayanghosh@gmail.com) 
+<p>
+  <a href="https://sayanghosh67.github.io/portfolio/"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sayanghosh67"><strong>GitHub</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sayan-ghosh97"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:iemsayanghosh@gmail.com"><strong>Email</strong></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sayanghosh67&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sayanghosh67&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sayanghosh67&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
+---
+
+## About
+
+I'm **Sayan Ghosh**, a Computer Science undergraduate specialising in Artificial Intelligence at the **University of Engineering and Management, Kolkata (IEM/UEM Kolkata)**. I enjoy building practical software, exploring AI and data-driven problem solving, and creating thoughtful web experiences.
+
+Currently, I'm developing my foundations across software engineering, data analysis, algorithms, and AI/ML while turning ideas into usable projects.
+
+## Focus
+
+- **AI & data:** machine-learning fundamentals, statistical analysis, probability, and prompt engineering
+- **Software development:** Python, SQL, Java, C fundamentals, and full-stack web development
+- **Engineering habits:** algorithm design, debugging, collaboration, and continuous learning
+
+## Selected work
+
+| Project | What it explores | Link |
+|---|---|---|
+| **Personal portfolio** | A portfolio for my work and developer identity | [Open portfolio ↗](https://sayanghosh67.github.io/portfolio/) |
+| **Sarath-E** | Student-priority bike-taxi platform prototype developed for a hackathon | [Open demo ↗](https://sarath-e.vercel.app/) |
+
+> Project descriptions are intentionally concise. Features and integrations should be checked in each project before treating a prototype as production-ready.
+
+## Education
+
+**B.Tech — Computer Science & Engineering (Artificial Intelligence)**  
+University of Engineering & Management, Kolkata (IEM), New Town  
+Expected graduation: **2028**
+
+## Certifications & learning
+
+Selected courses listed on my resume:
+
+- What is Data Science? — IBM
+- Foundations: Data, Data, Everywhere — Google
+- Probability & Statistics for Machine Learning & Data Science — DeepLearning.AI
+- Algorithmic Toolbox — UC San Diego / Coursera
+- Introduction to Programming with MATLAB — Vanderbilt University
+- Prompt Engineering for ChatGPT — Vanderbilt University
+- Cyber Security Fundamentals
+- Advanced System Security Topics
+- Principles of Management — Johns Hopkins University
+
+## Toolkit
+
+**Programming**  
+`Python` · `SQL` · `MATLAB` · `C (fundamentals)` · `Java`
+
+**AI, data & algorithms**  
+`Machine Learning Fundamentals` · `Statistical Analysis` · `Probability & Statistics` · `Data Structures & Algorithms` · `Sorting & Searching` · `Prompt Engineering`
+
+**Tools & workflow**  
+`Git` · `GitHub` · `Jupyter Notebook` · `Google Colab` · `MS Excel` · `MS Office`
+
+**Web technologies**  
+`HTML` · `CSS` · `JavaScript` · `React` · `Node.js` · `Tailwind CSS` · `Three.js` · `GSAP`
+
+> Web technologies above are retained from my existing profile README; other technical skills are based on my supplied resume.
+
+## GitHub activity
+
+The chart below is a live, third-party rendering of the public contribution calendar. It is not a hand-made heatmap, and availability depends on the service.
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/701A3D/sayanghosh67" alt="Public GitHub contribution calendar for sayanghosh67" width="100%">
+</div>
+
+<sub>GitHub statistics cards are intentionally omitted to avoid unreliable or unavailable metrics.</sub>
+
+## Find me online
+
+- [GitHub](https://github.com/sayanghosh67)
+- [LinkedIn](https://www.linkedin.com/in/sayan-ghosh97)
+- [Portfolio](https://sayanghosh67.github.io/portfolio/)
+- [Instagram](https://instagram.com/sayan_ghosh97)
+- [Facebook](https://facebook.com/sayanghosh097)
+- [Email](mailto:iemsayanghosh@gmail.com)
+
+<div align="center">
+  <img src="assets/sayan-footer.svg" alt="Keep building with curiosity" width="100%">
+  <sub>Learn deliberately. Build thoughtfully. Keep going.</sub>
+</div>
