@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="sayan-title sayan-desc">
+  <title id="sayan-title">Sayan Ghosh — AI/ML Engineer, Full-Stack Developer, Creative Technologist</title>
+  <desc id="sayan-desc">A cinematic burgundy developer banner with a fine technical grid, orbital geometry, a flowing animated path, and a glowing underline.</desc>
+  <defs>
+    <linearGradient id="sayan-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset=".58" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="sayan-glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D"/>
+      <stop offset=".5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#C77B9B"/>
+      <animate attributeName="x1" values="0;0.2;0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="sayan-aura" cx=".78" cy=".36" r=".65">
+      <stop offset="0" stop-color="#701A3D" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#10070C" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="sayan-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#E5B5C7" stroke-opacity=".09" stroke-width=".7"/>
+      <circle cx="0" cy="0" r="1" fill="#E5B5C7" fill-opacity=".24"/>
+    </pattern>
+    <filter id="sayan-soft-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <mask id="sayan-fade">
+      <linearGradient id="sayan-mask-grad" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="white"/>
+        <stop offset=".82" stop-color="white" stop-opacity=".8"/>
+        <stop offset="1" stop-color="white" stop-opacity=".08"/>
+      </linearGradient>
+      <rect width="1200" height="440" fill="url(#sayan-mask-grad)"/>
+    </mask>
+  </defs>
+  <rect width="1200" height="440" rx="18" fill="url(#sayan-bg)"/>
+  <rect width="1200" height="440" rx="18" fill="url(#sayan-aura)"/>
+  <rect width="1200" height="440" rx="18" fill="url(#sayan-grid)"/>
+  <g fill="none" stroke="#C77B9B" stroke-opacity=".28">
+    <circle cx="1000" cy="202" r="118" stroke-dasharray="2 9"/>
+    <circle cx="1000" cy="202" r="84" stroke-dasharray="1 7"/>
+    <ellipse cx="1000" cy="202" rx="160" ry="55" transform="rotate(-31 1000 202)"/>
+    <ellipse cx="1000" cy="202" rx="160" ry="55" transform="rotate(44 1000 202)"/>
+  </g>
+  <circle cx="1110" cy="128" r="4" fill="#E5B5C7" filter="url(#sayan-soft-glow)"/>
+  <circle cx="911" cy="281" r="3" fill="#C77B9B"/>
+  <path d="M735 36 C845 108 823 270 1002 306 S1110 354 1180 384" fill="none" stroke="url(#sayan-glow)" stroke-width="1.7" stroke-linecap="round" opacity=".85" mask="url(#sayan-fade)">
+    <animate attributeName="stroke-dasharray" values="0 900;230 670;0 900" dur="12s" repeatCount="indefinite"/>
+  </path>
+  <path d="M64 72h42M64 72v42M1136 366h-42M1136 366v-42" fill="none" stroke="#E5B5C7" stroke-opacity=".6" stroke-width="1.2"/>
+  <text x="78" y="116" fill="#E5B5C7" font-family="monospace" font-size="13" letter-spacing="4">ENGINEERING / CREATIVITY / INTELLIGENCE</text>
+  <text x="72" y="210" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="70" letter-spacing="-2">Sayan Ghosh</text>
+  <text x="78" y="254" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="1.2">AI/ML Engineer  <tspan fill="#701A3D">|</tspan>  Full-Stack Developer</text>
+  <text x="78" y="283" fill="#C77B9B" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1.2">Creative Technologist</text>
+  <path d="M78 310H520" stroke="#451126" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M78 310H520" stroke="url(#sayan-glow)" stroke-width="2.5" stroke-linecap="round" filter="url(#sayan-soft-glow)">
+    <animate attributeName="stroke-dasharray" values="0 442;442 0;0 442" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <text x="78" y="353" fill="#F8F0F3" fill-opacity=".72" font-family="monospace" font-size="12" letter-spacing="2.5">B.TECH · COMPUTER SCIENCE (AI)</text>
+  <text x="78" y="378" fill="#F8F0F3" fill-opacity=".48" font-family="monospace" font-size="11" letter-spacing="2">UEM KOLKATA  /  INDIA</text>
+  <text x="1116" y="414" text-anchor="end" fill="#E5B5C7" fill-opacity=".55" font-family="monospace" font-size="10" letter-spacing="2">SG — 01</text>
+</svg>
